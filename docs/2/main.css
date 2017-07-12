@@ -3,7 +3,7 @@
 }
 body {
     margin: 0;
-    font-size: 3em;
+    font-size: 1.5em;
     font-color: white;
 }
 #main {
@@ -56,7 +56,7 @@ body {
 }
 .d {
     height: 500px;
-    background-color: #f1c40f;
+    background-color: #2980b9;
 }
 .e {
     height: 100px;
@@ -64,7 +64,7 @@ body {
 }
 .f {
     height: 300px;
-    background-color: #16a085;
+    background-color: #2980b9;
 }
 .g {
     height: 50px;
