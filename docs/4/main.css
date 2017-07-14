@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+}
+
+.box {
+    min-height: 100px;
+    flex: 1;
+}
+
+.group {
+    flex: 1;
+    height: 100%;
+    display: inline-flex;
+}
+
+.child {
+    height: 33%;
+}
+
+
+.a {
+    background-color: green;
+}
+
+.b {
+    background-color: red;
+}
+
+.c {
+    background-color: blue;
+}
+
+.d {
+    background-color: yellow;
+}
+
+
+@media (max-width: 800px) {
+    .container {
+        display: block;
+    }
+    .group {
+        width: 100%;
+        display: flex;
+        flex-grow:
+    }
+
+    .child {
+        width: 33%;
+    }
+}

@@ -1,0 +1,8 @@
+nav {
+    display: inline-block;
+    width: 100%;
+}
+
+.navButton {
+    background-color: #2ecc71;
+}
