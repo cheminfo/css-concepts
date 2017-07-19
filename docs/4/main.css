@@ -60,3 +60,9 @@
         display: none;
     }
 }
+
+@media mobile {
+    .m900 {
+        display: none;
+    }
+}
