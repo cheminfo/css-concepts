@@ -1,8 +1,42 @@
+* {
+    margin: 0;
+}
+
 nav {
-    display: inline-block;
     width: 100%;
+    background-color: white;
+    border-bottom: 1px solid #95a5a6;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+    flex: 1;
 }
 
 .navButton {
-    background-color: #2ecc71;
+    text-decoration: none;
+}
+
+body {
+    background-color: #ecf0f1;
+}
+button {
+    border: none;
+    height: 100%;
+}
+input {
+    background-color: #bdc3c7;
+    border: none;
+}
+
+.fork {
+    background-color: #3498db;
+}
+
+.copy {
+    background-color: #3498db;
 }
