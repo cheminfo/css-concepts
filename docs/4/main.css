@@ -42,7 +42,7 @@
 
 @media (max-width: 800px) {
     .container {
-        display: block;
+        flex-direction: column;
     }
     .group {
         width: 100%;
@@ -52,6 +52,16 @@
 
     .child {
         width: 33%;
+    }
+}
+
+@media (max-width: 600px) {
+    .group {
+        flex-direction: column;
+    }
+
+    .child {
+        width: 100%;
     }
 }
 
