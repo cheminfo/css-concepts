@@ -5,17 +5,12 @@ import Children from './Children'
 import Group from './Group'
 import './index.css'
 
-const styles = {
-  fontFamily: 'sans-serif',
-  textAlign: 'center',
-};
-
 const App = () => (
   <div className="container">
     <Box color="blue"/>
     <Box color="green"/>
     <Box color="red"/>
-    <Box color="yellow"/>
+    <Box color="yellow" noMobile="true"/>
     <Group>
       <Children color="blue"/>
       <Children color="green"/>

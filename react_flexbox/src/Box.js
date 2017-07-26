@@ -5,7 +5,9 @@ class Box extends React.Component {
      const style= {
          backgroundColor: this.props.color
      }
-    return <div style={style} className="box">This is a react component</div>
+     let classes = "box"
+     if(this.props.noMobile) classes += " noMobile"
+    return <div style={style} className={classes}>This is a react component</div>
   }
 }
 
