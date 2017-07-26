@@ -24,7 +24,7 @@ class TestComponent extends React.Component {
               if (matches) {
                 return <div className="small">Media query matches!</div>;
             } else {
-            return <div>Media query does not match!</div>;
+                return <div>Media query does not match!</div>;
             }}}
           </Mediaquery>
 
