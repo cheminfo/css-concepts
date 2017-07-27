@@ -1,0 +1,125 @@
+{
+	"$content": {
+		"date": 1456325608217,
+		"reactionRXN": {
+			"type": "mol2d",
+			"value": "$RXN\n\n\nJME Molecular Editor\n  1  1\n$MOL\nC/C(C)=C(Cl)\\N(C)C>>C/C(C)=C\\CC(C)(C)C(=O)N(C)C\nJME 2017-06-18 Wed Jul 26 14:07:57 GMT+200 2017\n\n  8  7  0  0  0  0  0  0  0  0999 V2000\n    2.4498    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    2.4388    1.4062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2194    2.1092    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6363    2.1092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2084    3.5154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    1.4172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8337    1.4172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6253    3.5154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0\n  2  3  1  0  0  0  0\n  2  4  2  0  0  0  0\n  3  5  1  0  0  0  0\n  3  6  1  0  0  0  0\n  4  7  1  0  0  0  0\n  4  8  1  0  0  0  0\nM  END\n$MOL\nC/C(C)=C(Cl)\\N(C)C>>C/C(C)=C\\CC(C)(C)C(=O)N(C)C\nJME 2017-06-18 Wed Jul 26 14:07:57 GMT+200 2017\n\n 13 12  0  0  0  0  0  0  0  0999 V2000\n    2.4498    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4388    1.4062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2194    2.1092    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6363    2.1092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2084    3.5154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    1.4172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8337    1.4172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6253    3.5154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0391    2.1294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.2585    1.4416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.4638    2.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3997    2.7656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.2726    0.0417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0\n  2  3  1  0  0  0  0\n  2  4  1  0  0  0  0\n  3  5  1  0  0  0  0\n  3  6  1  0  0  0  0\n  4  7  1  0  0  0  0\n  4  8  1  0  0  0  0\n  7  9  1  0  0  0  0\n  9 10  2  0  0  0  0\n 10 11  1  0  0  0  0\n  4 12  1  0  0  0  0\n 10 13  1  0  0  0  0\nM  END\n"
+		},
+		"title": "N,N,2,2,5-pentamethylhex-4-enamide&nbsp;",
+		"reagents": [{
+				"code": "115184",
+				"id": "",
+				"iupac": "2-Methyl-3-buten-2-ol",
+				"mf": "C5H10O",
+				"mw": 86.132492,
+				"purity": "100%",
+				"density": 0.82,
+				"g": 0.063377,
+				"ml": 0.077289,
+				"mmoles": 0.735803898215593,
+				"equivalent": 1,
+				"purityType": "%",
+				"purityValue": 1,
+				"rn": 115184,
+				"ocl": {
+					"idCode": "gGQ@@dtuR@@",
+					"coordinates": "!B[G|@[G|S[G|@Dp"
+				}
+			},
+			{
+				"code": "26189593",
+				"id": "",
+				"iupac": "1-Chloro-N,N,2-trimethylpropenylamine",
+				"mf": "C6H12ClN",
+				"mw": 133.619345,
+				"purity": "100%",
+				"density": 1.01,
+				"g": 0.104935,
+				"ml": 0.103896,
+				"mmoles": 0.785328388902557,
+				"equivalent": 1.0673066435324228,
+				"purityType": "%",
+				"purityValue": 1,
+				"rn": 26189593,
+				"ocl": {
+					"idCode": "daz@`DBHRYfij`@",
+					"coordinates": "!B`BH@k\\B`BH[_}`@"
+				}
+			},
+			{
+				"code": "121448",
+				"id": "",
+				"iupac": "Triethylamine",
+				"mf": "C6H15N",
+				"mw": 101.19023,
+				"purity": "100%",
+				"density": 0.728,
+				"g": 0.151273,
+				"ml": 0.207793,
+				"mmoles": 1.494934118370195,
+				"equivalent": 2.0317018189161242,
+				"purityType": "%",
+				"purityValue": 1,
+				"rn": 121448,
+				"ocl": {
+					"idCode": "gNx@@eRmUP@",
+					"coordinates": "!BMxK~_tbBMpLwoT`C"
+				}
+			}
+		],
+		"procedure": {
+			"type": "html",
+			"value": "<p><span style=\"font-size:12px\">In a three-necked flask we introduce, at 0&deg;C, the solvent, the a-chloroenamine and the triethylamine. The allylic or propargylic alcohol is then added drop by drop. We observe the appearance of a white precipitate of triethylamine hydrochloride. The analysis of the reaction mixture show by 1H NMR the presence of the N,O-ketene acetal. In the case of TMCE, we observe a singlet around 2.65 ppm corresponding to N(C<em>H</em>3)2. The solution is stired until complete disappearance of the N,O-ketene acetal. The solution is then filtered and concentrated under reduced pressure. The crude product is purified by flash-chromatography on silica gel.The reaction was quenched with a diluted solution of sodium hydroxide. The organic phase was separated, dried of magnesium sulfate and concentrated under reduced pressure.&nbsp;</span></p>\n\n<p>&nbsp;</p>\n"
+		},
+		"products": [{
+				"code": "LP0001",
+				"mf": "C11H21NO",
+				"mw": 183.290959,
+				"em": 183.12345,
+				"ocl": {
+					"idCode": "dkNH@DCHhhiBUFjjf`@",
+					"coordinates": "!B_`BH@m\\B_`BHo]^}_`CpHc_|m{tw@F"
+				},
+				"batch": "Final",
+				"id": "",
+				"purity": "100%",
+				"g": 2.2,
+				"mmoles": 12.002774233943532,
+				"equivalent": 1,
+				"yield": 16.312463501554703,
+				"purityType": "%",
+				"purityValue": 1,
+				"theoreticalG": 0.1348662021398744,
+				"theoreticalML": null
+			},
+			{
+				"code": "LP0001",
+				"mf": "C11H21NO",
+				"mw": 183.290959,
+				"ocl": {
+					"idCode": "dkNH@DCHhhiBUFjjf`@",
+					"coordinates": "!B_`BH@m\\B_`BHo]^}_`CpHc_|m{tw@F"
+				},
+				"batch": "f1",
+				"id": "",
+				"purity": "100%",
+				"g": 0,
+				"mmoles": 0,
+				"equivalent": 1,
+				"yield": 0,
+				"purityType": "%",
+				"purityValue": 1,
+				"theoreticalG": 0.1348662021398744,
+				"theoreticalML": null
+			}
+		],
+		"remarks": {
+			"type": "html",
+			"value": "<p>aaaa</p>\n"
+		},
+		"code": "LP0001"
+	},
+	"$lastModification": "admin@cheminfo.org",
+	"$modificationDate": 1498132713894,
+	"$creationDate": 1456325612872
+}
